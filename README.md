@@ -57,4 +57,4 @@ The response has the shape `{"tag": "...", "confidence": 0.0, "needs_review": fa
 
 ## Credits
 
-The idea and dataset come from [Made With ML](https://github.com/GokuMohandas/Made-With-ML) (MIT, see [`data/NOTICE.md`](data/NOTICE.md)). The code is a separate, simpler implementation, built with AI assistance.
+The idea and dataset come from [Made With ML](https://github.com/GokuMohandas/Made-With-ML) (MIT, see [`data/NOTICE.md`](data/NOTICE.md)). The code is a separate, simpler implementation.
